@@ -12,7 +12,7 @@
 
 3.d Optional ~~templates for~~ literature reviews
 
-# To participate 
+# How to participate 
 4. goto:
 https://docs.google.com/spreadsheets/d/19_cDitN3zIDJ-0dzYjyM7MMhUfv3d08VRKC3NFfKkZo/edit?usp=sharing and allocate yourself to:
 
