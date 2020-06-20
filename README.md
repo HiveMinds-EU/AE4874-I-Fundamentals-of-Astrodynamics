@@ -3,16 +3,23 @@
 1. ~~The complete course planning. (It automatically compiles a pdf with the planning, and more importantly, it automatically generates all the taskwarrior commands to add your tasks to your tasklist (taskwarrior).)~~
 2. Old exam solutions templates, the actual solutions are in a private repo shared with collaborators.test
 3. Templates for summaries of the following course related material: 
+
 3.a Papers to read
+
 3.b Presentations
+
 3.c Lectures
+
 3.d Optional ~~templates for~~ literature reviews
 
 # To participate 
 4. goto:
 https://docs.google.com/spreadsheets/d/19_cDitN3zIDJ-0dzYjyM7MMhUfv3d08VRKC3NFfKkZo/edit?usp=sharing and allocate yourself to:
+
 4.a Papers to read
+
 4.b Presentations (only 1 needed per team, so if your teammate summarised this you can perhaps assist your teammate with their lecture summary or something to balence it out.)
+
 4.c Lectures
 
 5. Then fork this repository, create the summaries in the latex files/templates I created for you
