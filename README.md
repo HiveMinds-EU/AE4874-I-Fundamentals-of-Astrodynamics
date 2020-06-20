@@ -28,7 +28,19 @@ https://docs.google.com/spreadsheets/d/19_cDitN3zIDJ-0dzYjyM7MMhUfv3d08VRKC3NFfK
 
 
 # FAQ
-## How to use this (git) with latex
+## How do I use latex/overleaf with (this) git? 
+0. Get a github account (and log in).
+1. Click on "fork" here in this website (top right).
+0. Get an Overleaf account (and log in on overleaf.com).
+1. Click new project (in Overleaf).
+2. Click Import from git(?hub?).
+3. Then click on this repository that you forked (named :SOW-MKI46 Brain-Reading-And-Writing.
+4. Then you just start working in it. 
+5. PS. on menu set the main file to /lectures/<yourlecture>/main.tex if that is the main overleaf must show/compile.
+6. When you're done, click on Menu>github> push changes to github.
+  
+
+## How to use this (git) with latex locally
 0. You can git clone this repository
 1. You can edit pdf's in this repository with TexMaker (OpenSource):https://www.xm1math.net/texmaker/download.html
 2. You can compile/create the pdf's in this repository by telling TexMaker to use MikTex (OpenSource): https://download.cnet.com/MiKTeX-64-bit/3000-18483_4-75851644.html
